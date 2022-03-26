@@ -1,4 +1,6 @@
-### Hi there 👋
+### ✨ This is my github profile, here I share my best practices and works.
+### 🔭 I’m currently working on GmodCyberShop
+### 😄 My contacts: Discord - Huzane#2000
 
 <!--
 **Hunzane/Hunzane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
